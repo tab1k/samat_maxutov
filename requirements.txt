@@ -1,0 +1,6 @@
+// PYTHON REQUIREMENTS //
+
+1) import turtle
+2) from turtle import Turtle, Screen
+3) use classes
+4) check equations
